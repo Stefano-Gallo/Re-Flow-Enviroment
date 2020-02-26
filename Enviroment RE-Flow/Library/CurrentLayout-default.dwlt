@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 544}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -45,7 +45,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 950, y: 544}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -114,7 +114,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 494}
   m_MaxSize: {x: 14004, y: 14044}
   vertical: 0
-  controlID: 56
+  controlID: 128
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -139,7 +139,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 494}
   m_MaxSize: {x: 10002, y: 14044}
   vertical: 1
-  controlID: 57
+  controlID: 54
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 222}
   m_MaxSize: {x: 8006, y: 4022}
   vertical: 0
-  controlID: 58
+  controlID: 55
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -384,10 +384,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 84f9ffff
-      m_LastClickedID: -1660
-      m_ExpandedIDs: 86f9ffff76fbffff
+      scrollPos: {x: 0, y: 156}
+      m_SelectedIDs: 407affff
+      m_LastClickedID: -34240
+      m_ExpandedIDs: 807efeff1e89feff8489feff088afeffb28afeff5a8bfefff68bfeffdc8cfeff6c95feffb0b7feffb2bcfeff28bdfeff50befeffe8c0feff7cc5feff9a66ffff206effffe085ffffc88effffcc8efffff0c5ffffb6c6ffffcacbffff38deffff3ae5ffffa6eeffffa8eeffffae440000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -447,9 +447,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -722.3218, y: 928.10474, z: 199.22556}
+    m_Target: {x: 0.09533144, y: 1.0546595, z: -2.6654944}
     speed: 2
-    m_Value: {x: -722.3218, y: 928.10474, z: 199.22556}
+    m_Value: {x: 0.09533144, y: 1.0546595, z: -2.6654944}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -478,20 +478,20 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.24323381, y: 0.15075034, z: -0.037996937, w: -0.95753795}
+    m_Target: {x: 0.045328856, y: -0.9437317, z: 0.29348558, w: 0.14582297}
     speed: 2
-    m_Value: {x: -0.24464403, y: 0.15067725, z: -0.038219083, w: -0.95707107}
+    m_Value: {x: 0.044446364, y: -0.9441261, z: 0.29360816, w: 0.14298524}
   m_Size:
-    m_Target: 121.1866
+    m_Target: 0.080317594
     speed: 2
-    m_Value: 121.186584
+    m_Value: 0.08031857
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1
-    m_SpeedNormalized: 0.49999997
+    m_Speed: 0.9
+    m_SpeedNormalized: 0.43999997
     m_SpeedMin: 0.01
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -575,20 +575,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/re-FLOW Asset/club/Materials
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/re-FLOW Asset/club/Materials
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Unity\GitHub Project\Re-Flow-Enviroment\Enviroment RE-Flow
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 76}
-    m_SelectedIDs: fc330000
-    m_LastClickedID: 13308
-    m_ExpandedIDs: 00000000fc330000843a0000183e0000983f00009840000000ca9a3b
+    m_SelectedIDs: 583f0000
+    m_LastClickedID: 16216
+    m_ExpandedIDs: 000000009a340000423c0000b23f00002e4100002242000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -616,7 +616,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000fc330000843a0000183e0000983f000098400000
+    m_ExpandedIDs: 000000009a340000423c0000b23f00002e41000022420000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
