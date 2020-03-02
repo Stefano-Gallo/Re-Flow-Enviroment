@@ -123,6 +123,9 @@
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/maurodicarlo/Desktop/Re-Flow-Enviroment/Enviroment RE-Flow/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.TerrainTools">
+      <HintPath>/Users/maurodicarlo/Desktop/Re-Flow-Enviroment/Enviroment RE-Flow/Library/ScriptAssemblies/Unity.TerrainTools.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>/Users/maurodicarlo/Desktop/Re-Flow-Enviroment/Enviroment RE-Flow/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
@@ -171,14 +174,11 @@
     <Reference Include="Unity.TextMeshPro">
       <HintPath>/Users/maurodicarlo/Desktop/Re-Flow-Enviroment/Enviroment RE-Flow/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.UI">
-      <HintPath>/Users/maurodicarlo/Desktop/Re-Flow-Enviroment/Enviroment RE-Flow/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TerrainTools">
-      <HintPath>/Users/maurodicarlo/Desktop/Re-Flow-Enviroment/Enviroment RE-Flow/Library/ScriptAssemblies/Unity.TerrainTools.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.TerrainTools.Editor">
       <HintPath>/Users/maurodicarlo/Desktop/Re-Flow-Enviroment/Enviroment RE-Flow/Library/ScriptAssemblies/Unity.TerrainTools.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>/Users/maurodicarlo/Desktop/Re-Flow-Enviroment/Enviroment RE-Flow/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Hub/Editor/2019.2.19f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
